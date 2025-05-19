@@ -22,34 +22,6 @@
 
 ---
 
-## 🧑‍💻 Projects Practicum DS+
-
-### 🚀 [Project 1: Predicting Customer Churn](https://github.com/yourusername/project1)
-**Skills used:** Python, Pandas, Scikit-learn, XGBoost  
-**Description:**  
-A predictive model for customer churn using historical data. The model employs **XGBoost** for classification and utilizes techniques like **feature engineering** and **model tuning**.  
-- **Challenges**: Addressed issues like **imbalanced classes** and **data preprocessing**.
-- **Outcome**: Achieved **90% accuracy** with **precision and recall optimization**.
-
----
-
-### 📊 [Project 2: Fraud Detection System](https://github.com/yourusername/project2)
-**Skills used:** Python, Pandas, Matplotlib, Seaborn, Machine Learning  
-**Description:**  
-A fraud detection model that identifies fraudulent transactions based on historical data. I used **decision trees** and **ensemble methods** to improve the accuracy of detection.  
-- **Challenges**: Dealt with **class imbalance** and **feature selection**.
-- **Outcome**: Successfully detected fraud with **95% accuracy**.
-
----
-
-### 🧮 [Project 3: Financial Data Analysis Dashboard](https://github.com/yourusername/project3)
-**Skills used:** Python, Pandas, Matplotlib, Dash  
-**Description:**  
-Built a **financial dashboard** to visualize key performance indicators using **Dash** and **Matplotlib**. Focused on data cleaning, transformation, and interactive charts.  
-- **Challenges**: Combined data from multiple sources and created dynamic visualizations.
-- **Outcome**: The dashboard is interactive and easy to interpret for financial analysis.
-
-
 
 <!--
 **v-kasper/v-kasper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
